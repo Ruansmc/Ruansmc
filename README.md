@@ -5,6 +5,10 @@ Frontend⚡
 **Hub Bombeiro**, no qual, utilizei o framework Material-UI, a biblioteca React juntamente com a linguagem JavaScript. Utilizei também Spring e PostGreSql para consultar os dados do backend.
 Aprendi muito, e continuo me esforçando ao máximao para me ser um Desenvolvedor completo.
 
+- Cursos em Andamento:
+-Rocketseat (FullStack) 
+-AdaTech (Frontend)
+-Descomplica IfoodIO
 
 
 
@@ -13,7 +17,8 @@ Aprendi muito, e continuo me esforçando ao máximao para me ser um Desenvolvedo
   <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> <img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
   <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-
+  
+##
           
 ### Você também me encontra em:
 &nbsp;<a href="https://www.linkedin.com/in/ruan-carvalho-0a527414a">
