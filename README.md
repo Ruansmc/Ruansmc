@@ -1,7 +1,7 @@
 ### Oi, meu nome é Ruan 👋
 Desenvolvedor Web,
 Frontend⚡
-🔭 Tenho 29 anos, tenho 8 meses de experiência. Tudo começou com uma oportunidade para atuar no primeiro projeto do Corpo de Bombeiro Militar da Bahia.
+🔭 Tenho 8 meses de experiência. Tudo começou com uma oportunidade para atuar no primeiro projeto do Corpo de Bombeiro Militar da Bahia.
 **Hub Bombeiro**, no qual, utilizei o framework Material-UI, a biblioteca React juntamente com a linguagem JavaScript. Utilizei também Spring e PostGreSql para consultar os dados do backend.
 Aprendi muito, e continuo me esforçando ao máximao para me ser um Desenvolvedor completo.
 
