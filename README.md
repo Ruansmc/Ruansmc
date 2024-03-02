@@ -1,9 +1,12 @@
 ### Oi, meu nome é Ruan 👋
-Desenvolvedor Web,
+Desenvolvedor Web - 
 Frontend⚡
-🔭 Tenho 8 meses de experiência. Tudo começou com uma oportunidade para atuar no primeiro projeto do Corpo de Bombeiro Militar da Bahia.
+<br>
+<br>
+🔭 Tenho 8 meses de experiência. <br>
+Tudo começou com uma oportunidade para atuar no primeiro projeto do Corpo de Bombeiros Militar da Bahia.
 **Hub Bombeiro**, no qual, atuei como desenvolvedor React utilizando as bibliotecas mais atualizadas da linguagem. Fazendo comunicação com back-end utilizando Spring e administrando o banco de dados com Postgresql.
-Aprendi muito, e continuo me esforçando ao máximo para ser um Desenvolvedor completo.
+Aprendi muito, e continuo trilhando a jornada para me tornar um desenvolvedor completo.
 
 - Cursos em Andamento:
 -Rocketseat (FullStack) 
