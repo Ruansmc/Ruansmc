@@ -4,8 +4,7 @@ Desenvolvedor Web -
 Frontend⚡
 <br>
 <br>
-🔭 Tenho menos de um ano de experiência. <br>
-Tudo começou com uma oportunidade para atuar no primeiro projeto do Corpo de Bombeiros Militar da Bahia.
+🔭Tudo começou com uma oportunidade para atuar no primeiro projeto do Corpo de Bombeiros Militar da Bahia.
 **Hub Bombeiro**, no qual, atuei como desenvolvedor React utilizando as bibliotecas mais atualizadas da linguagem. Fazendo comunicação com back-end utilizando Spring e administrando o banco de dados com Postgresql.
 Aprendi muito, e continuo trilhando a jornada para me tornar um desenvolvedor completo.
 
