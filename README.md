@@ -12,7 +12,7 @@ Aprendi muito, e continuo trilhando a jornada para me tornar um desenvolvedor co
 -Rocketseat (FullStack) 
 -AdaTech (Frontend)
 -Descomplica IfoodIO
-
+-Alura - Iniciante em Programação T6 - ONE
 
 
 - 📫 Atualmente estou mais focado:<br>
