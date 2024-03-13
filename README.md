@@ -8,7 +8,7 @@ Frontend⚡
 **Hub Bombeiro**, no qual, atuei como desenvolvedor React utilizando as bibliotecas mais atualizadas da linguagem. Fazendo comunicação com back-end utilizando Spring e administrando o banco de dados com Postgresql.
 Aprendi muito, e continuo trilhando a jornada para me tornar um desenvolvedor completo.
 
-- Cursos em Andamento:
+ Cursos em Andamento:
 -Rocketseat (FullStack) 
 -AdaTech (Frontend)
 -Descomplica IfoodIO
