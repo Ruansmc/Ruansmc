@@ -1,5 +1,4 @@
- <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">### Oi, meu nome é Ruan 👋
-Desenvolvedor Web - 
+ <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Oi, meu nome é Ruan - Desenvolvedor Web - 
 <br>
 Frontend⚡
 <br>
