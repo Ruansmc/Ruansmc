@@ -1,5 +1,4 @@
- <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"><h1>Oi, meu nome é Ruan
- </h1>
+<h1> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Oi, meu nome é Ruan</h1>
 <br>
 <h2>Frontend⚡- Desenvolvedor Web -</h2>
 <br>
