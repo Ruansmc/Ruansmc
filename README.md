@@ -1,6 +1,7 @@
- <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Oi, meu nome é Ruan - Desenvolvedor Web - 
+ <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"><h1>Oi, meu nome é Ruan
+ </h1>
 <br>
-Frontend⚡
+<h2>Frontend⚡- Desenvolvedor Web -</h2>
 <br>
 <br>
 🔭Tudo começou com uma oportunidade para atuar no primeiro projeto do Corpo de Bombeiros Militar da Bahia.
