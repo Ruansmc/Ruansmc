@@ -1,6 +1,6 @@
 <h1> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Oi, meu nome é Ruan</h1>
 <br>
-<h2>Futuro Fullstack Developer⚡- Desenvolvedor Web -</h2>
+<h2> Developer Jr⚡- Desenvolvedor Web -</h2>
 <br>
 <br>
 🔭Tudo começou com uma oportunidade para atuar no primeiro projeto do Corpo de Bombeiros Militar da Bahia.
