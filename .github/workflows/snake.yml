@@ -1,98 +1,32 @@
-nome: GitHub Snake Game
+name: Generate Snake
 
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Executa todos os dias à meia-noite UTC
+  workflow_dispatch:  # Permite execução manual
 
+permissions:
+  contents: write  # Permissão para escrever no repositório
 
-sobre:
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
 
-  # Agende o fluxo de trabalho para ser executado diariamente à meia-noite UTC
+      - name: Gerar a animação da cobrinha
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            github-contribution-grid-snake.svg
+            github-contribution-grid-snake-dark.svg?palette=github-dark
 
-  agendar:
-
-    - cron: "0 0 * * *"
-
-
-
-  # Permitir o acionamento manual do fluxo de trabalho
-
-  fluxo de trabalho_despacho:
-
-
-
-  # Acionar o fluxo de trabalho em pushes para o branch principal
-
-  empurrar:
-
-    galhos:
-
-      - principal
-
-
-
-empregos:
-
-  gerar:
-
-    em execução: ubuntu-latest
-
-    tempo limite-minutos: 10
-
-
-
-    passos:
-
-      # Etapa 1: Faça check-out do repositório
-
-      - nome: Repositório de Checkout
-
-        usos: ações/checkout@v3
-
-
-
-      # Etapa 2: Gere as animações da cobra
-
-      - nome: Gerar animações de cobras do GitHub Contributions
-
-        usos: Platane/snk@v3
-
-        com:
-
-          # Nome de usuário do GitHub para gerar a animação para
-
-          nome_de_usuário_github: ${{ github.repository_owner }}
-
-
-
-          # Defina os arquivos de saída e suas configurações
-
-          saídas: |
-
-            dist/github-snake.svg
-
-            dist/github-snake-dark.svg?palette=github-dark
-
-            dist/ocean.gif?color_snake=laranja&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
-        ambiente:
-
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-
-
-      # Etapa 3: Implante os arquivos gerados na ramificação 'output'
-
-      - nome: Implantar no Branch de Saída
-
-        usos: peaceiris/actions-gh-pages@v3
-
-        com:
-
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-
-          diretório_de_publicação: ./dist
-
-          publish_branch: saída
-
-          # Opcionalmente, você pode definir uma mensagem de confirmação personalizada
-
-          commit_message: "Atualizar animação de cobra [pular ci]"
-
+      - name: Fazer commit e push
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: "github-actions[bot]"
+          author_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          message: "Atualizando animação da cobrinha"
+          add: "github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg"
