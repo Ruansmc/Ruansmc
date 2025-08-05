@@ -14,10 +14,13 @@ Atuei como Frontend - sem experiência - no primeiro projeto do Corpo de Bombeir
 ![HTML5](https://img.shields.io/badge/HTML5-blue?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
+
 
 ## <span style="color: hsl(239, 100%, 75%)">Estudando atualmente:
 
-![Java](https://img.shields.io/badge/java-blue.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-blue?style=for-the-badge&logo=git&logoColor=white)
 
@@ -39,5 +42,8 @@ Atuei como Frontend - sem experiência - no primeiro projeto do Corpo de Bombeir
 
 
 ## Projetos
+Advogada - https://site-advogada-phi.vercel.app/
+
 Hub do Bombeiro - Corpo de Bombeiros da Ba (Desenvolvedor Frontend Jr)
 https://www.instagram.com/p/Cw5NaP8uhhQ/?img_index=1
+
