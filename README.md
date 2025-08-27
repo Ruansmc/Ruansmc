@@ -3,7 +3,6 @@
 ## 🚀<span style="color:hsl(239, 71.40%, 62.90%)">Sobre mim</span>
 
 Atuei como Frontend - sem experiência - no primeiro projeto do Corpo de Bombeiros Militar da Bahia. Desde então, tenho me desafiado em aprender constantemente, buscando através do networking e do saber esse mundo incrível que é a Programação.
-[Hub do Bombeiro](https://hub.cbm.ba.gov.br)
 
 ## ✔<span style="color: hsl(239, 100%, 75%)"> Primeiro Portfólio</span>
 
@@ -26,7 +25,7 @@ Atuei como Frontend - sem experiência - no primeiro projeto do Corpo de Bombeir
 
 ## 🔗 <span style="color: hsl(239, 100%, 75%)">Conecte-se comigo!
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://challenge-six-orcin.vercel.app)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://challenge-six-orcin.vercel.app) - Será modificado
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ruansmc/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-c-0a527414a//)
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/RuanSantosMota1/)
@@ -44,6 +43,8 @@ Atuei como Frontend - sem experiência - no primeiro projeto do Corpo de Bombeir
 ## Projetos
 Advogada - https://site-advogada-phi.vercel.app/
 
-Hub do Bombeiro - Corpo de Bombeiros da Ba (Desenvolvedor Frontend Jr)
+Hub do Bombeiro - Corpo de Bombeiros da Ba (Desenvolvedor Frontend)
 https://www.instagram.com/p/Cw5NaP8uhhQ/?img_index=1
+[Hub do Bombeiro](https://hub.cbm.ba.gov.br)
+****
 
