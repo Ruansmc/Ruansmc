@@ -23,7 +23,7 @@ Atuei como Frontend - sem experiência - no primeiro projeto do Corpo de Bombeir
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-blue?style=for-the-badge&logo=git&logoColor=white)
 
-## 🔗 <span style="color: hsl(239, 100%, 75%)">Conecte-se comigo!
+## <span style="color: hsl(239, 100%, 75%)">Conecte-se comigo!
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://challenge-six-orcin.vercel.app) - Será modificado
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ruansmc/)
