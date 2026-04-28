@@ -1,6 +1,6 @@
-# <span style="color:hsl(239, 71.40%, 62.90%)"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Ruan Santos Mota Carvalho</span>
+# <span style="color:hsl(239, 71.40%, 62.90%)">Ruan Santos Mota Carvalho</span>
 
-## 🚀<span style="color:hsl(239, 71.40%, 62.90%)">Sobre mim</span>
+## <span style="color:hsl(239, 71.40%, 62.90%)">Sobre mim</span>
 
 Atuei como Frontend - sem experiência - no primeiro projeto do Corpo de Bombeiros Militar da Bahia. Desde então, tenho buscado em aprender constantemente, através do networking e do saber, esse mundo incrível que é a Programação.
 
@@ -8,7 +8,7 @@ Atuei como Frontend - sem experiência - no primeiro projeto do Corpo de Bombeir
 
 - <a style="color:hsl(239, 100%, 75%)"> [Portfólio](https://challenge-six-orcin.vercel.app)</a>
 
-## 🛠 <span style="color:hsl(239, 100%, 75%)">Habilidades</span>
+## <span style="color:hsl(239, 100%, 75%)">Habilidades</span>
 
 ![HTML5](https://img.shields.io/badge/HTML5-blue?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
