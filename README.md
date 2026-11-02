@@ -2,7 +2,7 @@
 
 ## <span style="color:hsl(239, 71.40%, 62.90%)">Sobre mim</span>
 
-Atuei como Frontend - sem experiência - no primeiro projeto do Corpo de Bombeiros Militar da Bahia. Desde então, tenho buscado em aprender constantemente, através do networking e do saber, esse mundo incrível que é a Programação.
+Atuei como Frontend no primeiro projeto do Corpo de Bombeiros Militar da Bahia - HUB BOMBEIRO (https://hub.cbm.ba.gov.br). Desde então, tenho buscado em aprender constantemente esse mundo incrível que é a Programação.
 
 ## ✔<span style="color: hsl(239, 100%, 75%)"> Primeiro Portfólio</span>
 
